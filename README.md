@@ -22,7 +22,7 @@ By using high-quality and diverse datasets like these for training, the Hindi an
 
 ## How to Use this App for Language Translation : 
 
-- Clone this repository : `$ git clone --- `
+- Clone this repository : `$ git clone https://github.com/Vinayakmane47/language-translation-transformer.git`
 - Creat a virtual environment : `$ conda create -n env python=3.7 -y`
 - Install requirements    : `$ pip install -r requirements.txt` 
 - Run this App : `$ python app.py` 
@@ -31,8 +31,12 @@ By using high-quality and diverse datasets like these for training, the Hindi an
 ## Results : 
 #### BLEU Scores : 
 
-- English-Hindi -  36.63
-- English-Marathi - 31.66
+| Language | BLEU-Score             |
+| --------------- | --------------- |
+| English-Hindi   | 36.63           |
+| English-Marathi  | 31.66          |
+
+
 
 #### English to Hindi : 
 ![image](https://user-images.githubusercontent.com/103372852/236200498-2a6021f0-7ab6-4401-bb3a-06c22469df52.png)
